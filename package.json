@@ -1,0 +1,24 @@
+{
+  "name": "tao-theme",
+  "displayName": "Tao Theme",
+  "description": "Theme with Hu Tao Scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "repository": {
+    "url": "https://github.com/LukaLaKuka/Tao-Theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tao Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tao Theme-color-theme.json"
+      }
+    ]
+  }
+}

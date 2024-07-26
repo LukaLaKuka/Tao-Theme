@@ -1,1 +1,1 @@
-# Tao-Theme
+Just Tao Theme
