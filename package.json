@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.91.0"
   },
+  "icon": "images/icon.png",
+  "publisher": "LukaLaKuka",
   "repository": {
     "url": "https://github.com/LukaLaKuka/Tao-Theme"
   },
@@ -15,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tao Theme",
+        "label": "Tao Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tao Theme-color-theme.json"
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Tao Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker.json"
       }
     ]
   }
