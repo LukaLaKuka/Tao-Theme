@@ -7,9 +7,9 @@
     "vscode": "^1.91.0"
   },
   "icon": "images/icon.png",
-  "publisher": "LukaLaKuka",
+  "publisher": "Tomhuel",
   "repository": {
-    "url": "https://github.com/LukaLaKuka/Tao-Theme"
+    "url": "https://github.com/Tomhuel/Tao-Theme"
   },
   "categories": [
     "Themes"
